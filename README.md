@@ -59,5 +59,5 @@ PDF files at Dropbox
 <a href="https://ruindig.hatenablog.jp/entry/ingress/rd-yu-graduate-thesis">blog-RuinDig</a>
 
 # note
-<ol><a href="https://note.com/ruindig/n/n78b0c3112584">目次</a></ol>
-<ol><a href="https://note.com/ruindig/m/mef101a2f8bc6">noteマガジン</a></ol>
+<ul><a href="https://note.com/ruindig/n/n78b0c3112584">目次</a></ul>
+<ul><a href="https://note.com/ruindig/m/mef101a2f8bc6">noteマガジン</a></ul>
