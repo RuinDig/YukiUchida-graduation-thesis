@@ -37,6 +37,8 @@
 # 論文スライド/Slide
 <a href="https://www.slideshare.net/RuinDig/ingress-117678793">https://www.slideshare.net/RuinDig/ingress-117678793</a>
 
+# 論文PDF/PDF files
+
 PDF files at Google Drive
 
 <a href="https://drive.google.com/file/d/12kUlZKJbUV_Lnic-Ge5_Z1tVxp4gnr3l/view">論文PDF/Full text</a>
