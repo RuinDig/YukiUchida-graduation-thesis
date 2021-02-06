@@ -54,3 +54,10 @@ PDF files at Dropbox
 <a href="https://www.dropbox.com/s/epkkv81jbn2wg6m/Ingress-sightseeing_YukiUchida_abstract.pdf">論文要旨PDF/Abstract</a>
 
 <a href="https://www.dropbox.com/s/71zw81xtst93igi/Ingress-sightseeing_YukiUchida_slide.pdf">論文スライドPDF/Slide</a>
+
+# Blog
+<a href="https://ruindig.hatenablog.jp/entry/ingress/rd-yu-graduate-thesis">blog-RuinDig</a>
+
+# note
+<a href="https://note.com/ruindig/n/n78b0c3112584">目次</a>
+<a href="https://note.com/ruindig/m/mef101a2f8bc6">noteマガジン</a>
