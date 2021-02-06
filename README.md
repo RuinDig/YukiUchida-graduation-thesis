@@ -1,4 +1,4 @@
-# YukiUchida-graduation-thesis
+# 論文要旨
 <p>位置情報ゲーム「Ingress」を用いた自治体での観光振興の取り組み―神奈川県横須賀市と東京都中野区の事例研究によるモデル構築― 内田悠貴</p>
 <p>東洋大学国際地域学部国際地域学科国際地域専攻 1810140082 内田悠貴</p>
 <p>＜論文構成＞</p>
@@ -34,3 +34,21 @@
 ![YukiUchida-graduation-thesis](https://user-images.githubusercontent.com/20723919/107115105-9c8c3f80-68ad-11eb-818b-e16841536bc5.jpg)
 モデル図A　Ingressを用いた自治体での観光振興の要素モデル図
 
+# 論文スライド/Slide
+<a href="https://www.slideshare.net/RuinDig/ingress-117678793">https://www.slideshare.net/RuinDig/ingress-117678793</a>
+
+PDF files at Google Drive
+
+<a href="https://drive.google.com/file/d/12kUlZKJbUV_Lnic-Ge5_Z1tVxp4gnr3l/view">論文PDF/Full text</a>
+
+<a href="https://drive.google.com/file/d/16MhMcw0TlMIcepapaUHOGbLVTjRX-ZVS/view">論文要旨PDF/Abstract</a>
+
+<a href="https://drive.google.com/file/d/1zUlxfyv06cB9OH0x2v1YFG7wYHBC_5KT/view">論文スライドPDF/Slide</a>
+
+PDF files at Dropbox
+
+<a href="https://www.dropbox.com/s/xbcaqb7lvoyeuyt/Ingress-sightseeing_YukiUchida.pdf">論文PDF/Full text</a>
+
+<a href="https://www.dropbox.com/s/epkkv81jbn2wg6m/Ingress-sightseeing_YukiUchida_abstract.pdf">論文要旨PDF/Abstract</a>
+
+<a href="https://www.dropbox.com/s/71zw81xtst93igi/Ingress-sightseeing_YukiUchida_slide.pdf">論文スライドPDF/Slide</a>
