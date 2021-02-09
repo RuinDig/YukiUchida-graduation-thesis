@@ -37,6 +37,7 @@
 
 # 論文スライド/Slide
 <a href="https://www.slideshare.net/RuinDig/ingress-117678793">https://www.slideshare.net/RuinDig/ingress-117678793</a>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/ySnsvZXSBMd6w2" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/RuinDig/ingress-117678793" title="位置情報ゲーム「Ingress」を用いた自治体での観光振興の取り組み―神奈川県横須賀市と東京都中野区の事例研究によるモデル構築― 内田悠貴" target="_blank">位置情報ゲーム「Ingress」を用いた自治体での観光振興の取り組み―神奈川県横須賀市と東京都中野区の事例研究によるモデル構築― 内田悠貴</a> </strong> from <strong><a href="https://www.slideshare.net/RuinDig" target="_blank">Ruin Dig</a></strong></div>
 
 # 論文PDF/PDF files
 
