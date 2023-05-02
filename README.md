@@ -38,7 +38,9 @@
 モデル図A　Ingressを用いた自治体での観光振興の要素モデル図
 
 # 論文スライド/Slide
-<a href="https://www.slideshare.net/RuinDig/ingress-117678793">https://www.slideshare.net/RuinDig/ingress-117678793</a>
+<a href="https://www.slideshare.net/RuinDig/ingress-117678793">SlideShare</a>
+
+<a href="https://speakerdeck.com/ruindig/wei-zhi-qing-bao-gemu-ingress-woyong-itazi-zhi-ti-defalseguan-guang-zhen-xing-falsequ-rizu-mi-shen-nai-chuan-xian-heng-xu-he-shi-todong-jing-du-zhong-ye-qu-falseshi-li-yan-jiu-niyorumoderugou-zhu-nei-tian-you-gui">SpeakerDeck</a>
 
 # 論文PDF/PDF files
 
